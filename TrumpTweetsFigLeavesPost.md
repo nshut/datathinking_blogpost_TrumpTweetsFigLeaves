@@ -244,4 +244,4 @@ However, there is always room for improvement. The current approach primarily ca
 Additionally, the list of figleaf phrases used in this project is relatively basic and may not capture all potential figleaves. A more detailed list, perhaps developed with the input of experts in linguistics or communication studies, could improve the accuracy of the search engine.
 
 ## Project repository link
-https://github.com/nshut/datathinking_blogpost_TrumpTweetsFigLeaves/tree/f2b6eb8fcb8ca66a8bb5797b4da9cbfde68b84e9
+[https://github.com/nshut/datathinking_blogpost_TrumpTweetsFigLeaves/tree/f2b6eb8fcb8ca66a8bb5797b4da9cbfde68b84e9](https://github.com/nshut/datathinking_blogpost_TrumpTweetsFigLeaves)
